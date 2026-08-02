@@ -7,3 +7,4 @@
 - Subtraction Function
 - Multiplication Function
 - Division Function
+- Error Habdelling
