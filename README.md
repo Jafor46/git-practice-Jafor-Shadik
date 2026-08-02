@@ -1,6 +1,7 @@
 # Module 8 Assignment
 # Submited By
-- Jafor Shadik
+- **Full Name:** Jafor Shadik
+- **GitHub Username:** Jafor46
   
 # Tasks
 - Addition Function
